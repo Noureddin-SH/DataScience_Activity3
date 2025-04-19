@@ -1,5 +1,3 @@
-# DataScience_Activity3
-
 # Air Quality Analysis in NYC 
 
 ## Overview
